@@ -1,2 +1,2 @@
-# Plus_softwaredev_2024_Miracle1.1
+My name is Miracle from Nigeria# Plus_softwaredev_2024_Miracle1.1
 This repository is for practising the GitHub Flow in class
