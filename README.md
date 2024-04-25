@@ -9,14 +9,14 @@ First, I downloaded the two files software_dev_v1 and software_dev_v2 from the p
 
 Then i create and activate the environment software_dev_v1.yml by typing conda create --name software_dev_v1.yml
 
-![z](https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/bf2e250b-f79c-4fcd-86b0-228795f29c6f)
+![ysave](https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/857c38b0-5fd2-486f-af41-ba1293ca4641)
 
 
 **CREATING AND ACTIVATING THE ENVIRONMENT**
 
 I carried out the same steps to create and activate software_dev_v2.yml environment.
 
-![z]
-(https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/409f1e62-65eb-4844-99b8-eb4c9472b6a3)
+
+![z](https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/bec0e063-c65d-4bd8-88dc-ee2ed3d5ca0b)
 
 The whole process was fine and no error was encountered.
