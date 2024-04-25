@@ -9,7 +9,8 @@ First, I downloaded the two files software_dev_v1 and software_dev_v2 from the p
 
 Then i create and activate the environment software_dev_v1.yml by typing conda create --name software_dev_v1.yml
 
-![ysave](https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/f1c699d1-6bf8-4569-b13b-adfe9b715ccd)
+![z](https://github.com/miraclechinwe/Plus_softwaredev_2024_Miracle1.1/assets/162871585/bf2e250b-f79c-4fcd-86b0-228795f29c6f)
+
 
 **CREATING AND ACTIVATING THE ENVIRONMENT**
 
